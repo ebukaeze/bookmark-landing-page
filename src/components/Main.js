@@ -21,7 +21,8 @@ const Main = () => {
                    <img className="w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full" src={require("../assets/images/illustration-hero.svg").default} alt="hero"/>
                      </div>
             </div>
-            <div className="hidden md:block overflow-hidden bg-bookmark-purple rounded-l-full absolute top-32 right-0 w-2/4 h-72 lg:-bottom-24 lg:-right-36">
+            {/* Rounded Rectangle */}
+            <div className=" md:block overflow-hidden bg-bookmark-purple rounded-l-full absolute top-16 sm:top-32 right-0 w-2/4 sm:w-1/3 h-2/6 sm:h-72 lg:-bottom-24 lg:-right-0 ">
 
             </div>
         </section >
