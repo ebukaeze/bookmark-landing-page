@@ -31,7 +31,7 @@ Users should be able to:
 
 ![desktop view](./bookmark.png);
 
-![mobile view](./bookmark-mob.png);
+![mobile view](./bookmar-mob.png);
 
 ### Links
 
