@@ -10,7 +10,11 @@ module.exports = {
         "bookmark-grey": "#9194A1",
         "bookmark-white": "#f7f7f7",
         "bookmark-dark-blue": "hsl(229, 31%, 21%)",
+        "bookmark-blue-trans": "#252b46de",
       }
+    },
+    backgroundImage: {
+        "err-bg": "url('/src/assets/images/icon-error.svg')"
     },
     container: {
       center: true,
@@ -20,7 +24,9 @@ module.exports = {
         xl: "1124px",
         "2xl": "1124px",
       }
-    }
+    },
+  
+    
   },
   variants: {
     extend: {},

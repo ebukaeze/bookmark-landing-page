@@ -10,6 +10,9 @@
   color: #5368DF;
   
 } */
+.b {
+  color: #252b46de;
+}
 .btn {
   @apply shadow-md py-3 px-5 rounded transition duration-200;
 }
