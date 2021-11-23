@@ -8,7 +8,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 ## Live Demo
 
-- Live Site URL: [live site](https://insure-lainding-page-react.netlify.app/);
+- Live Site URL: [live site](https://bookmarkmanager-landing.netlify.app/);
 
 ![Design preview for Bookmark landing page coding challenge](./bookmark.png);
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-react-and-sass-jufyodvWQ)
-- Live Site URL: [live site](https://insure-lainding-page-react.netlify.app/);
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-landing-page-with-react-and-tailwind-css-ZJylYjxDH)
+- Live Site URL: [live site](https://bookmarkmanager-landing.netlify.app//);
 
 ## My process
 
