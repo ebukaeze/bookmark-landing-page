@@ -10,7 +10,7 @@ This is a solution to the [Bookmark landing page challenge on Frontend Mentor](h
 
 - Live Site URL: [live site](https://insure-lainding-page-react.netlify.app/);
 
-![Design preview for Insure landing page coding challenge](./insure.png);
+![Design preview for Bookmark landing page coding challenge](./bookmark.png);
 
 ## Overview
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ![desktop view](./bookmark.png);
 
-![mobile view](./bookmark.png);
+![mobile view](./bookmark-mob.png);
 
 ### Links
 
